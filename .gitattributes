@@ -1,0 +1,4 @@
+# treat these files as binary to prevent automatic merging
+*.unity binary
+*.prefab binary
+*.asset binary
